@@ -22,7 +22,16 @@ tags: []
 
 +   [深度学习实践：如何使用Tensorflow实现快速风格迁移][2]
 
+### 大数据计算
+
++   [Big Data Analysis with Scala and Spark][5]
++   [Spark源代码解析][6]
++   [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing][7]
+
 [1]: http://www.dlworld.cn/XueXiSuanFa/3079.html
 [2]: http://www.leiphone.com/news/201701/tGlVRXWShwe7ffHW.html
 [3]: https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037#.68iffeyyq
 [4]: https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/
+[5]: https://www.coursera.org/learn/scala-spark-big-data/home/welcome
+[6]: https://github.com/JerryLead/SparkInternals/tree/master/markdown
+[7]: http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/nsdi_spark.pdf
